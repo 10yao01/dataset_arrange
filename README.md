@@ -4,7 +4,7 @@
 
 **dataloader_collect 用于数据清洗配合 data.ipynb 完成每个 patch 的所有图片的显示**
 
-# 可以用于进行模型训练
+# 可以用于进行数据准备
 
 ---
 
